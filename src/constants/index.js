@@ -30,7 +30,7 @@ export const PROJECTS = [
 
 
 export const CONTACT = {
-  address: "5 MaYanMyaing Street, Hlaing, Yangon, Myanmar ",
-  phoneNo: "+959 795 856 640 ",
+  address: "271 UKcondo, Phnom Penh, Cambodia ",
+  phoneNo: "+855 169 200 01 ",
   email: "chitwaip2@gmail.com",
 };
